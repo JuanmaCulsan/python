@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        window.onload = () =>{
+            var boton = document.getElementById("right-side");
+            var crear = document.createElement("button");
+            crear.setAttribute("id","fecha-fin-fnr");
+            crear.innerText = "¿Cuándo finaliza mi curso?"
+            crear.className = "Button Button--primary";
+            crear.setAttribute("onclick","mostrar_fecha_fin()");
+            boton.appendChild(crear);
+        }
+
+
+
+        function mostrar_fecha_fin() {
+            idUsuario = this["ENV"]["current_user_id"];
+            idCurso = this["ENV"]["COURSE"]["id"];
+
+            let xhttp = new XMLHttpRequest();
+            if(window.XMLHttpRequest){
+                xhttp = new XMLHttpRequest();
+            }
+            else {
+                xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+
+            xhttp.open('GET',"https://medac.test.instructure.com/api/v1/courses/" + idCurso + "/enrollments?user_id=" + idUsuario);
+
+            xhttp.addEventListener('load',function(datos){
+                let respuesta = JSON.parse(datos.target.response);
+                obtener_informacion_inscripcion_usuario_curso(datos);
+                console.log(respuesta);
+
+            });
+            xhttp.send();
+      
+        }
+
+        function obtener_informacion_inscripcion_usuario_curso(datos) {
+            fecha = datos[0]["end_at"];
+            var d = new Date(fecha);
+            console.log(d);
+            d = d - 1000;
+            d = new Date(d);
+            fecha = d.toLocaleString("es-ES");
+            fecha = fecha.split(" ");
+            // mensaje = fecha[0] + " a las " + fecha[1];
+            mensaje = fecha[0] + "";
+            fecha1 = "<br>Tu curso finaliza el: " + "<br><b>" + mensaje + "</b><br><br>";
+
+            var boton = document.getElementById("fecha-fin-fnr").style.display ="none";
+            var padre = document.getElementById("right-side");
+            var contenedor = document.createElement("div");
+            contenedor.setAttribute("data-testid","ToDoSidebar");
+            
+           
+            var hijo2 = document.createElement("div");
+            hijo2.setAttribute("id","#fecha_fin_resultado");
+            hijo2.innerHTML=mensaje;
+            contenedor.appendChild(hijo2);
+            body.appendChild(contenedor);
+        }
+
+
+    </script>
+</head>
+<body>
+    <div id="right-side">
+
+    </div>
+</body>
+</html>

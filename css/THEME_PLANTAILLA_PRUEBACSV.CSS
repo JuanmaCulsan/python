@@ -1,0 +1,285 @@
+/*********ONLINE*********/
+
+#temas-curso-1 .imagen-tema-curso{
+    width: 11.2857%!important;
+    display: inline-table;
+    padding: 1%!important;
+}
+#temas-curso-2 .imagen-tema-curso{
+    width: 10%!important;
+    display: inline-table;
+    padding: 1%!important;
+}
+
+
+/*Botones MenÃƒÆ’Ã‚Âºs*/
+
+#boton-orientador{
+    width: 35%;
+    float: left;
+}
+
+.boton-menu-curso img{
+    max-width: 70%!important;
+}
+
+.boton-menu-curso{
+    width: 48.6%!important;
+    display: inline-flex;
+    background-color: #ececefff;
+}
+
+/*ComunicaciÃ³n Interna*/
+
+[aria-label="Observadores"] b{
+	visibility: hidden;
+}
+
+[aria-label="Observadores"] b:before{
+	visibility: visible;
+	content: "Padres"
+}
+
+/*Curso en bloques*/
+
+.accordionWrapper{
+    padding:30px;
+    float:left;
+    width:80%;
+}
+
+.accordionWrapper a{
+    text-decoration: none!important;
+}
+
+.accordionWrapper a:hover{
+    text-decoration: underline!important;
+}
+
+.accordionItem{
+    float:left;
+    display:block;
+    width:100%;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.accordionItemHeading{
+  padding: 15px 20px;
+  background-color: #e4e9ed;
+  font-weight: bold;
+  color: #102f4b;
+  border: solid 1px;
+  border-color: #102f4b;
+  border-radius: 3px;
+  margin-top: 20px!important;
+  font-size: 16px!important;
+  cursor: pointer;
+}
+
+.close .accordionItemContent{
+    height:0px;
+    transition:height 1s ease-out;
+    -webkit-transform: scaleY(0);
+    -o-transform: scaleY(0);
+    -ms-transform: scaleY(0);
+    transform: scaleY(0);
+    float:left;
+    display:block;
+}
+.open .accordionItemContent{
+    width: 100%;
+    font-size: 16px!important;
+    border-radius: 3px;
+    margin: 0px 0px 10px 0px;
+    display:block;
+    -webkit-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    transform: scaleY(1);
+    -webkit-transform-origin: top;
+    -o-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+
+    -webkit-transition: -webkit-transform 0.4s ease-out;
+    -o-transition: -o-transform 0.4s ease;
+    -ms-transition: -ms-transform 0.4s ease;
+    transition: transform 0.4s ease;
+    box-sizing: border-box;
+}
+
+.open .accordionItemHeading{
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 16px!important;
+}
+
+/*Botones MenÃƒÂºs*/
+#menu-curso{
+    max-width: 100%;
+    display: inline-flex;
+}
+
+.imagen-boton-menu-curso{
+    max-width: 100%!important;
+    display: inline-flex;
+    margin: 1%;
+}
+
+.boton-menu-curso{
+    width: 33%;
+    display: inline-flex;
+    margin: 1%;
+}
+
+
+@media (max-width: 800px) {
+
+/*VisualizaciÃ³n de temas*/
+#temas-curso-1 .imagen-tema-curso{
+    width: 30.2857%!important;
+    display: inline-table;
+    padding: 1%!important;
+}
+#temas-curso-2 .imagen-tema-curso{
+    width: 22%!important;
+    display: inline-table;
+    padding: 1%!important;
+}
+}
+
+/*********GENERAL*********/
+/*Quitar filtros de color del tablero*/
+
+.ic-DashboardCard__header_hero{
+    background-color: none!important;
+}
+/*PersonalizaciÃ³n MenÃº de ayuda*/
+#help_tray [role="button"]{
+    font-weight: bold;
+}
+
+#help_tray [direction="row"] div{
+    margin-top: 15px;
+}
+/*Quitar marcas de Instructure*/
+#footer{
+    display: none!important;
+}
+.wizard_popup_link{
+    display:none!important;
+}
+
+/*******Tablero*******/
+/*Quitar subtÃ­tulo de los cursos en el tablero*/
+.ic-DashboardCard__header-subtitle{
+    display: none!important;
+}
+
+/*******Curso*******/
+
+.imagen-tema-curso{
+  max-width: 100%!important;
+}
+
+#context_modules .ig-header{
+    background-color: #102F4B;
+    color: white;
+    text-shadow:none;
+}
+#context_modules .ig-header [class="name"]{
+    color: white;
+    text-shadow:none;
+}
+#context_modules .ig-header i{
+    color:white;
+}
+#wiki_page_show .course-title.ellipsis{
+    display: none;
+}
+
+/*Quitar botÃ³n de exportar contenido del curso*/
+.offline_web_export{
+    display: none;
+}
+/*Quitar mensaje de fallo al cargar contenido*/
+[role="tabpanel"] .rcs-LinkSet-LoadFailed{
+    display:none;
+}
+
+/*******Calificador*******/
+/*Quitar total*/
+#grades_summary .final_grade{
+    display: none;
+}
+
+#grades_summary .group_total{
+    display: none;
+}
+/*Quitar "Que pasarÃ­a si..."*/
+#student-grades-right-content{
+    display: none!important;
+}
+
+
+/*Temas*/
+
+#context_modules .ig-header{
+	background-color: #102F4B;
+	color: white;
+	text-shadow:none;
+}
+#context_modules .ig-header [class="name"]{
+	color: white;
+	text-shadow:none;
+}
+#context_modules .ig-header i{
+	color:white;
+}
+#wiki_page_show .course-title.ellipsis{
+	display: none;
+}
+
+/************MOVIL**************/
+
+@media (max-width: 800px) {
+/*Botones pag. inicio curso*/
+#boton-programacion{
+    margin: none;
+}
+
+#boton-normativa{
+    margin: none;
+}
+
+#boton-orientador{
+    float: left;
+    width: 47%;
+}
+
+#boton-cau{
+    float: right;
+    width: 47%;
+}
+
+/*Arreglar respuestas de cuestionarios*/
+.answer_arrow{
+    left: 0px!important;
+    top: -14px!important;
+}
+/*Arreglar ancho curso*/
+.header-bar-container {
+    min-width: 100%!important;
+}
+.edit-wiki{
+	display: block;
+}
+#menu-curso{
+    flex-direction: column;
+}
+.prerequisites_message{
+    display: none!important;
+}
+}

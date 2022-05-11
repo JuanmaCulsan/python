@@ -1,0 +1,1297 @@
+{
+    "MADRE_MASTER_GENERICO_DEPORTE_9587OA_EXPTO2": {
+            "nombre": ["MADRE_MASTER_GENERICO_DEPORTE_9587OA_EXPTO2"],
+            "especialistas": [
+                "ESPECIALISTA EN EMPRENDIMIENTO EN FITNESS",
+                "ESPECIALISTA EN EMPRENDIMIENTO EN FITNESS"
+            ],
+            "expertos": [
+                "EXPERTO EN GESTIÓN Y DIRECCIÓN DE CENTROS FITNESS EN BOUTIQUE",
+                "EXPERTO EN MARKETING, COMUNICACIÓN Y VENTAS DE MODELOS FITNESS BOUTIQUE",
+                "EXPERTO EN GESTIÓN Y DIRECCIÓN DE CENTROS FITNESS EN BOUTIQUE",
+                "EXPERTO EN MARKETING, COMUNICACIÓN Y VENTAS DE MODELOS FITNESS BOUTIQUE"
+            ],
+            "despros": [
+                "Desarrollo Profesional en Análisis del Modelo de Negocio y las Operaciones en Modelos Fitness Boutique",
+                "Desarrollo Profesional en Dirección y Gestión de Centros Fitness Boutique",
+                "Desarrollo Profesional en Plan de Marketing y Comunicación en el Modelo Fitness Boutique",
+                "Desarrollo Profesional en Productos y Metodologías Vanguardistas en el Modelo Fitness Boutique",
+                "Desarrollo Profesional en Análisis del Modelo de Negocio y las Operaciones en Modelos Fitness Boutique",
+                "Desarrollo Profesional en Dirección y Gestión de Centros Fitness Boutique",
+                "Desarrollo Profesional en Plan de Marketing y Comunicación en el Modelo Fitness Boutique",
+                "Desarrollo Profesional en Productos y Metodologías Vanguardistas en el Modelo Fitness Boutique"
+            ],
+            "certificaciones": [
+                "Modelo de negocio y gestión económica de un Centro Fitness Boutique", 
+                "Indicadores de productividad en modelos de Centros Fitness Boutique",
+                "Análisis de operaciones en el montaje de un Centro Fitness Boutique",
+                "Aspectos clave en la configuración de un Centro Fitness Boutique",
+                "Claves en la orientación cliente céntrica en los Centros Fitness Boutique",
+                "Principales procesos en un Centro Fitness Boutique",
+                "Marketing basics para Centros Fitness Boutique (I)",
+                "Marketing basics para Centros Fitness Boutique (II)",
+                "El plan comercial de un Centro Fitness Boutique",
+                "Aspectos clave para afrontar las ventas en un Centro Fitness Boutique",
+                "Metodologías de entrenamiento de las diferentes tipologías de Centros Fitness Boutique (I)",
+                "Metodologías de entrenamiento de las diferentes tipologías de Centros Fitness Boutique (II)",
+                "Modelo de negocio y gestión económica de un Centro Fitness Boutique", 
+                "Indicadores de productividad en modelos de Centros Fitness Boutique",
+                "Análisis de operaciones en el montaje de un Centro Fitness Boutique",
+                "Aspectos clave en la configuración de un Centro Fitness Boutique",
+                "Claves en la orientación cliente céntrica en los Centros Fitness Boutique",
+                "Principales procesos en un Centro Fitness Boutique",
+                "Marketing basics para Centros Fitness Boutique (I)",
+                "Marketing basics para Centros Fitness Boutique (II)",
+                "El plan comercial de un Centro Fitness Boutique",
+                "Aspectos clave para afrontar las ventas en un Centro Fitness Boutique",
+                "Metodologías de entrenamiento de las diferentes tipologías de Centros Fitness Boutique (I)",
+                "Metodologías de entrenamiento de las diferentes tipologías de Centros Fitness Boutique (II)"
+            ],
+            "tfm": "TFM del Máster de Genérico Deporte",
+            "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "CIBERSEGURIDAD": {
+        "nombre": ["MADRE_MASTER_CIBERSEGURIDAD"],
+        "especialistas": [
+            "ESPECIALISTA EN AUDITORÍA DE CIBERSEGURIDAD (RA)",
+            "ESPECIALISTA EN CONSULTORÍA EN CIBERSEGURIDAD"
+        ],
+        "expertos": [
+            "EXPERTO EN CIBERSEGURIDAD",
+            "EXPERTO EN AUDITORÍA DE CIBERSEGURIDAD",                                  
+            "EXPERTO EN CONSULTORÍA EN CIBERSEGURIDAD",
+            "EXPERTO EN HACKING ÉTICO"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Aplicación de Metodologías y Documentación de Análisis Forenses en Ciberseguridad",
+            "Desarrollo Profesional en Realización de Análisis Forenses en Ciberseguridad",
+            "Desarrollo Profesional en Normativa de Ciberseguridad",
+            "Desarrollo Profesional en Incidentes de Ciberseguridad",            
+            "Desarrollo Profesional en Bastionado de Redes y Sistemas",
+            "Desarrollo Profesional en Puesta en Producción Segura",
+            "Desarrollo Profesional en Herramientas de Monitorización y Gestión de Sistemas Comprometidos",
+            "Desarrollo Profesional en Ataque y Defensa"
+        ],
+        "certificaciones": [
+            "Aplicación de Metodologías de análisis forenses",
+            "Documentación de análisis forenses",
+            "Elaboración de informes de análisis forenses",
+            "Realización de informes de análisis forenses en dispositivos móviles",
+            "Realización de informes de análisis forenses en Cloud",
+            "Realización de informes de análisis forenses en IOT",
+            "Normativa vigente de ciberseguridad de ámbito nacional e internacional",
+            "Aplicación y diseño de sistemas de cumplimiento normativo",
+            "Legislación para el cumplimiento de la responsabilidad penal y jurisprudencia en materia de protección de datos",
+            "Desarrollo de planes de prevención y concienciación en ciberseguridad",
+            "Auditoría de incidentes e implementación de medidas de ciberseguridad",
+            "Investigación, detección y documentación de los incidentes de ciberseguridad",
+            "Diseño de planes de securización y redes de computadores seguras",
+            "Configuración de sistemas de control de acceso y autenticación de personas y administración de credenciales",
+            "Configuración de dispositivos y sistemas informáticos",
+            "Pruebas y análisis de aplicaciones webs y dispositivos móviles",
+            "Determinación del nivel de seguridad requerido por aplicaciones e implantación de sistemas seguros de desplegado de software",
+            "Detección y corrección de vulnerabilidad de aplicaciones web y problemas de seguridad en aplicaciones para dispositivos móviles",
+            "Herramientas de monitorización para detección de vulnerabilidades",
+            "Utilización de sistemas comprometidos",
+            "Consolidación de sistemas comprometidos",
+            "Ataque y defensa de las comunicaciones inalámbricas",
+            "Ataque y defensa del acceso a sistemas de terceros",
+            "Ataque y defensa de aplicaciones web"
+        ],
+        "tfm": "TFM del Máster en Ciberseguridad",
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "BIGDATA": {
+        "nombre": ["MADRE_MASTER_BIGDATA"],
+        "especialistas": [
+            "ESPECIALISTA EN INTELIGENCIA ARTIFICIAL",
+            "ESPECIALISTA EN SISTEMAS DE BIG DATA DE LA I.A."
+        ],
+        "expertos": [
+            "EXPERTO EN DESARROLLO DE INTELIGENCIA ARTIFICIAL",
+            "EXPERTO EN PROGRAMACIÓN DE SISTEMAS EXPERTOS",                                  
+            "EXPERTO EN SISTEMAS DE BIG DATA DE LA INTELIGENCIA ARTIFICIAL",
+            "EXPERTO EN ANÁLISIS DE DATOS"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Modelos de Inteligencia Artificial",
+            "Desarrollo Profesional en Sistemas de Aprendizaje Automático",
+            "Desarrollo Profesional en programación de la I.A.",
+            "Desarrollo Profesional en evaluación de modelos de automatización",            
+            "Desarrollo Profesional en Aplicación de Técnicas para la Información",
+            "Desarrollo Profesional en Configuración de Conjuntos de Datos ",
+            "Desarrollo Profesional en Gestión de Sistemas de Almacenamiento",
+            "Desarrollo Profesional en Análisis de Sistemas de Datos"
+        ],
+        "certificaciones": [
+            "Caracterización de sistemas y utilización de modelos de I.A.",
+            "Procesamiento del lenguaje natural y aplicación de principios legales y éticos de la I.A.",
+            "Análisis de sistemas robotizados",
+            "Caracterización de la inteligencia artificial y determinación de sistemas de aprendizaje automático",
+            "Algoritmos aplicados al aprendizaje supervisado y optimización del modelo",
+            "Aplicación de técnicas de aprendizaje no supervisado y modelos computacionales de redes neuronales",
+            "Caracterización de lenguajes de programación",
+            "Desarrollo de aplicaciones de inteligencia artificial (I)",
+            "Desarrollo de aplicaciones de inteligencia artificial (II)",
+            "Evaluación de la convergencia tecnológica",
+            "Evaluación de modelos de automatización industrial",
+            "Evaluación de modelos de automatización de negocio",
+            "Aplicación de técnicas de integración y procesamiento de información",
+            "Aplicación de técnicas de análisis de información (I)",
+            "Aplicación de técnicas de análisis de información (II)",
+            "Configuración de cuadros de mando en entornos computacionales",
+            "Búsqueda de respuestas en grandes conjuntos de datos",
+            "Aplicación de herramientas para la visualización de datos",
+            "Gestión de soluciones con sistemas de almacenamiento y herramientas del centro de datos para la resolución de problemas",
+            "Gestión de almacenamiento y ecosistemas big data",
+            "Generación de mecanismos de integridad de los datos",
+            "Monitorización, optimización y estabilidad de los servicios",
+            "Validación de técnicas big data en la toma de decisiones en inteligencia de negocios (I)",
+            "Validación de técnicas big data en la toma de decisiones en inteligencia de negocios (II)"
+        ],
+        "tfm": "TFM del Máster en Big Data e Inteligencia Artificial",
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },    
+    "MADRE_MASTER_EJERCICIO_PATOLOGIAS": {
+        "nombre": ["MADRE_MASTER_EJERCICIO_PATOLOGIAS"],
+        "especialistas": [
+            "Especialista en Prescripción del Ejercicio en Enfermedades Cardiovasculares, Pulmonar, Metabólico y Oncológico",
+            "Especialista en Prescripción del Ejercicio en Enfermedades Neurológicas, Renales y Poblaciones Especiales"
+        ],
+        "expertos": [
+            "Experto en Prescripción del Ejercicio en Enfermedades Cardiovasculares y Pulmonar",
+            "Experto en Prescripción del Ejercicio en Enfermedades Metabólicas y Paciente Oncológico",                                  
+            "Experto en Enfermedades Neurológicas y Renales",
+            "Experto en Prescripción del Ejercicio en Poblaciones Especiales"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Prescripción del Ejercicio en Enfermedad Cardiovascular",
+            "Desarrollo Profesional en Prescripción del Ejercicio en Enfermedad Pulmonar",
+            "Desarrollo Profesional en Prescripción del Ejercicio en Enfermedad Metabólica",
+            "Desarrollo Profesional en Prescripción del Ejercicio en Paciente Oncológico",            
+            "Desarrollo Profesional en Prescripción del Ejercicio en Enfermedad Neurológica",
+            "Desarrollo Profesional en Prescripción del Ejercicio en Patología y Trasplante Renal",
+            "Desarrollo Profesional en Diseño de Programas de Ejercicio en Jóvenes, Adultos y Mayores",
+            "Desarrollo Profesional en Prescripción de Programas de Ejercicio en la Mujer"
+        ],
+        "certificaciones": [
+            "Cardiopatía isquémica",
+            "Trasplante cardiáco",
+            "Hipertensión arterial y enfermedad arterial periférica",
+            "Prescripción de ejercicio en enfermedad pulmonar : Asma y EPOC",
+            "Prescripción de ejercicio en enfermedad pulmonar ll: fibrosis pulmonar/quística",
+            "Prescripción de ejercicio en Paciente crítico",
+            "Prescripción de ejercicio en obesidad, sobrepeso y síndrome metabólico",
+            "Prescripción de ejercicio en sobrepeso y síndrome metabólico",
+            "Prescripción de ejercicio en Diabetes mellitus",
+            "Cáncer y programa de ejercicio con paciente oncológico",
+            "Diseño de programas de ejercicio con paciente oncológico",
+            "Nutrición aplicada al paciente oncológico",
+            "Prescripción de ejercicio en esclerosis múltiple",
+            "Prescripción de ejercicio en parkinson",
+            "Prescripción de ejercicio en fibromialgia",
+            "Prescripción de ejercicio en patología y trasplante renal",
+            "Prescripción de ejercicio en enfermedad renal",
+            "Programas de ejercicio aplicado a la patología y trasplante renal",
+            "Programas de ejercicio con prepúberes y púberes",
+            "Programas de ejercicio con adultos jóvenes",
+            "Programas de ejercicio en 3º edad",
+            "Programas de ejercicio con niñas y adolescentes",
+            "Programas de ejercicio con gestantes pre y post-parto",
+            "Programas de ejercicio con edad adulta"
+        ],
+        "tfm": "TFM del Máster en Prescripción de Ejercicio en Patologías Crónicas y Poblaciones Especiales", 
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "MASTER_GENERICO_SOCIOCULTURAL_EXPTO": {
+        "nombre": ["MASTER_GENERICO_SOCIOCULTURAL_EXPTO"],
+        "especialistas": [
+            "",
+            ""
+        ],
+        "expertos": [
+            "Experto en Intervención con Personas en Situación de Dependencia en el Ámbito Sociosanitario",
+            "",                                  
+            "",
+            ""
+        ],
+        "despros": [
+            "Desarrollo Profesional en intervención en personas con discapacidad: tipos y clasificaciones",
+            "Desarrollo Profesional en Formación al Apoyo Informal desde el Ámbito Sociosanitaria",
+            "",
+            "",            
+            "",
+            "",
+            "",
+            ""
+        ],
+        "certificaciones": [
+            "Intervención en discapacidad física, motora y sensorial",
+            "Intervención en discapacidad intelectual",
+            "Intervención en Trastorno Mental Grave",
+            "Psicoeducación para cuidadores: nociones en conceptos sociosanitarios y orientación administrativa y jurídica",
+            "Intervención con la familia como colaboradora: metodologías innovadoras",
+            "Apoyo emocional al cuidador",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tfm": "", 
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "MADRE_GENERICO_SANIDAD_DESPRO1": {
+        "nombre": ["MADRE_GENERICO_SANIDAD_DESPRO1"],
+        "especialistas": [
+            "ocultado",
+            "ocultado"
+        ],
+        "expertos": [
+            "ocultado",
+            "ocultado",                                  
+            "ocultado",
+            "ocultado"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Fitocosmética",
+            "ocultado",
+            "ocultado",
+            "ocultado",            
+            "ocultado",
+            "ocultado",
+            "ocultado",
+            "ocultado"
+        ],
+        "certificaciones": [
+            "Introducción a la Fitocosmética",
+            "Procesos de elaboración de fitocosméticos",
+            "Plantas y extractos con actividad fitocosmética",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tfm": "", 
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "MADRE_MASTER_CIENCIAS_BIOMEDICAS": {
+        "nombre": ["MADRE_MASTER_CIENCIAS_BIOMEDICAS"],
+        "especialistas": [
+            "Especialista en Consejo Genético Prenatal y Reproducción Asistida (RA)",
+            "Especialista en Genética Oncológica, Inmunología e Investigación Biomédica"
+        ],
+        "expertos": [
+            "Experto en Fertilidad y Reproducción Humana Asistida",
+            "Experto en Diagnóstico y Asesoramiento Genético Prenatal",                                  
+            "Experto en Genética Oncológica y Nanomedicina",
+            "Experto en Inmunología y Aplicaciones Clínicas"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Reproducción Humana Asistida",
+            "Desarrollo Profesional en Fertilidad Humana",
+            "Desarrollo Profesional en Diagnóstico Genético Prenatal",
+            "Desarrollo Profesional en Asesoramiento Genético Prenatal",            
+            "Desarrollo Profesional en Genética Oncológica",
+            "Desarrollo Profesional en Tratamientos contra el Cáncer y Farmacogenómica",
+            "Desarrollo Profesional en Inmunología",
+            "Desarrollo Profesional en Investigación Biomédica"
+        ],
+        "certificaciones": [
+            "Manejo y obtención de muestras para reproducción asistida",
+            "Técnicas de reproducción asistida",
+            "Aspectos legales y bioética en reproducción asistida",
+            "Introducción a la reproducción humana",
+            "Infertilidad femenina",
+            "Infertilidad masculina",
+            "Diagnóstico genético preconcepcional en la mujer",
+            "Diagnóstico genético preconcepcional en el hombre",
+            "Terapia fetal",
+            "Interpretación de pruebas diagnósticas",
+            "Asesoramiento preconcepcional",
+            "Aspectos éticos y legales",
+            "Genética básica",
+            "Genética del cáncer",
+            "Epigenética y cáncer",
+            "Terapias Antineoplásicas",
+            "Farmacogenómica",
+            "Nanomedicina",
+            "Inmunología básica",
+            "Técnicas inmunológicas",
+            "Patologías del sistema inmunológico y nuevos tratamientos",
+            "Técnicas de edición del genoma CRISPR",
+            "Introducción a la bioinformática y bioestadística",
+            "Ensayos clínicos"
+        ],
+        "tfm": "TFM del Máster en Ciencias Biomédicas y Reproducción Humana", 
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    "MADRE_MASTER_PILATES_9850OA_ESPTA1": {
+        "nombre": ["MADRE_MASTER_PILATES_9850OA_ESPTA1"],
+        "especialistas": [
+            "ESPECIALISTA EN PILATES SUELO: NIVEL INICIACIÓN, INTERMEDIO Y AVANZADO",
+            ""
+        ],
+        "expertos": [
+            "EXPERTO EN PILATES SUELO NIVEL BÁSICO E INTERMEDIO",
+            "EXPERTO EN PILATES SUELO NIVEL BÁSICO Y AVANZADO",
+            "",
+            ""
+        ],
+        "despros": [
+            "Desarrollo Profesional en Visión Global del Método Pilates Suelo Nivel Básico",
+            "Desarrollo Profesional en Pilates Suelo Nivel Intermedio y Complementos Boutique",
+            "Desarrollo Profesional en Sistemas de Trabajo de Pilates Suelo Nivel Avanzado",
+            "Desarrollo Profesional en Orientaciones Metodológicas de Pilates Suelo Nivel Avanzado",
+            "",
+            "",
+            "",
+            ""           
+        ],
+        "certificaciones": [
+            "Conceptos del Método Pilates",
+            "Serie de Suelo Nivel Básico",
+            "Pilates Suelo aplicado al trabajo de Patologías Nivel Básico",
+            "Serie de Suelo Nivel Intermedio",
+            "Metodología Pilates Suelo Nivel Intermedio",
+            "Pilates Suelo aplicado al trabajo de Patologías Nivel Intermedio",
+            "Introducción al Pilates Suelo Nivel Avanzado",
+            "Sistemas de trabajo de Pilates Suelo Nivel Avanzado (I)",
+            "Sistemas de trabajo de Pilates Suelo Nivel Avanzado (II)",
+            "Sistemas de trabajo de Pilates Suelo Nivel Avanzado (III)",
+            "Propuesta Metodológicas de Pilates Suelo Nivel Avanzado",
+            "Evidencia Científica del Método Pilates",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tfm": "", 
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    },
+    
+    "MADRE_MASTER_GENERICO_DEPORTE_9851OA_ESPTA1": {
+        "nombre": ["MADRE_MASTER_GENERICO_DEPORTE_9851OA_ESPTA1"],
+        "especialistas": [
+            "ESPECIALISTA EN INCLUSIÓN DEPORTIVA EN EL ÁMBITO ESCOLAR Y EXTRAESCOLAR",
+            ""
+        ],
+        "expertos": [
+            "EXPERTO EN INICIACIÓN AL DEPORTE INCLUSIVO",
+            "EXPERTO EN INICIACIÓN A LA EDUCACIÓN FÍSICA Y DEPORTE INCLUSIVO EN EL ÁMBITO ESCOLAR Y EXTRAESCOLAR",                                  
+            "",
+            ""
+        ],
+        "despros": [
+            "Desarrollo Profesional en Deporte Inclusivo para Personas con Discapacidad Física",
+            "Desarrollo Profesional en Deporte Inclusivo para Personas con Discapacidad Sensorial e Intelectual",
+            "Desarrollo Profesional en Educación Física Inclusiva en el Ámbito Escolar",
+            "Desarrollo Profesional en Facilitadores para la Práctica Deportiva en Deporte Inclusivo",            
+            "",
+            "",
+            "",
+            ""
+        ],
+        "certificaciones": [
+            "Deporte inclusivo",
+            "Iniciación a la actividad física y deporte adaptado para personas con discapacidad física: lesión medular y amputaciones",
+            "Iniciación a la actividad física y deporte adaptado para personas con discapacidad física: parálisis cerebral",
+            "Iniciación a la actividad física y deporte adaptado para personas con discapacidad intelectual",
+            "Iniciación a la actividad física y deporte adaptado para personas con discapacidad sensorial visual",
+            "Iniciación a la actividad física y deporte adaptado para personas con discapacidad sensorial auditiva",
+            "Marco curricular y legislativo de la inclusión en E.F.",
+            "Adaptaciones y orientaciones en el marco escolar",
+            "Recursos para docentes y técnicos",
+            "Barreras arquitectónicas",
+            "Factores facilitadores para la inclusión",
+            "Ecosistema del deporte inclusivo para personas con discapacidad",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "tfm": "", 
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_prevencion.jpg"]
+    },
+    "MADRE_MASTER_PADEL": {
+        "nombre": ["MADRE_MASTER_PADEL"],
+        "especialistas": [
+            "ESPECIALISTA EN METODOLOGÍA Y ANÁLISIS DEL RENDIMIENTO EN EL PÁDEL",
+            "ESPECIALISTA EN EMPRENDIMIENTO, GESTIÓN Y ORGANIZACIÓN DE EVENTOS EN PÁDEL"
+        ],
+        "expertos": [
+            "EXPERTO EN ANÁLISIS DEL RENDIMIENTO EN PÁDEL",
+            "EXPERTO EN METODOLOGÍA Y ENTRENAMIENTO EN PÁDEL",
+            "EXPERTO EN EMPRENDIMIENTO EN PÁDEL",
+            "EXPERTO EN ORGANIZACIÓN DE EVENTOS, EQUIPAMIENTOS Y OTRAS MODALIDADES EN PÁDEL"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Investigación en el Pádel",
+            "Desarrollo Profesional en Análisis técnico-táctico",
+            "Desarrollo Profesional en Metodología y Entrenamiento de la Técnica y Táctica",
+            "Desarrollo Profesional en Preparación Física en el Pádel",
+            "Desarrollo Profesional en Dirección y Gestión de Centros de Pádel",
+            "Desarrollo Profesional en Marketing Digital aplicado al Pádel",
+            "Desarrollo Profesional en Organización de Eventos",
+            "Desarrollo Profesional en Materiales, Equipamientos y Otras Modalidades en Pádel"
+        ],
+        "certificaciones": [
+            "Investigación aplicadas al Pádel",
+            "Estadística aplicada al Pádel ",
+            "Elaboración de Informes y Representación Gráfica de Datos",
+            "Análisis de la Técnica en el Pádel",
+            "Análisis de la Táctica en el Pádel",
+            "Recursos Aplicados al Análisis de la Técnica y de la Táctica en Pádel",
+            "Metodología de la enseñanza y aprendizaje en la iniciación al Pádel",
+            "Metodología y Entrenamiento en Pádel Nivel Avanzado",
+            "Metodología y Entrenamiento en Pádel Nivel Competición y Alta Competición",
+            "Entrenamiento de la Condición Física del Jugador de Pádel",
+            "Análisis y Valoración de la Condición Física del Jugador de Pádel",
+            "Desarrollo del Jugador a Largo Plazo",
+            "Herramientas de análisis Estratégico",
+            "la pasíon por el emprendimiento",
+            "Modelos de Gestión aplicados al Pádel",
+            "Introducción al Márketing Digital",
+            "Inbound Marketing",
+            "Outbound Marketing",
+            "Organización de Eventos Internacionales",
+            "Organización de Eventos Nacionales",
+            "Organización de Eventos de Promoción",
+            "Palas y Pelotas",
+            "Pavimentos",
+            "Pádel Adaptado para personas con Discapacidad"
+        ],
+        "tfm": "TFM del Máster en Metodología Análisis del Rendimiento y Emprendimiento en Pádel",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/banner_generico.jpg"]
+    },
+    "PREVENCION": {
+            "nombre": ["MADRE_MASTER_PREVENCION"],
+            "especialistas": [
+                "ESPECIALISTA EN BASES GENERALES PARA PREVENCIÓN Y READAPTACIÓN DE LESIONES",
+                "ESPECIALISTA EN BASES TEÓRICO PRÁCTICAS EN LA PREVENCIÓN Y READAPTACIÓN DE LESIONES DEL MMII Y MMSS"
+            ],
+            "expertos": [
+                "EXPERTO EN BASES DE LA READAPTACIÓN DEPORTIVA Y VALORACIÓN DEL APARATO LOCOMOTOR",
+                "EXPERTO EN VARIANTES METODOLÓGICAS PARA LA READAPTACIÓN DE LESIONES",
+                "EXPERTO EN READAPTACIÓN DE LESIONES DEL MIEMBRO INFERIOR",
+                "EXPERTO EN READAPTACIÓN DE LESIONES DEL MMSS"
+            ],
+            "despros": [
+                "Desarrollo profesional en principios generales de la readaptación deportiva",
+                "Desarrollo profesional en bases teórico-prácticas de valoración del aparato locomotor",
+                "Desarrollo profesional en entrenamiento de la fuerza y suplementación deportiva aplicada al proceso de readaptación",
+                "Desarrollo profesional en materiales y entornos aplicables en la readaptación de lesiones",
+                "Desarrollo profesional en recuperaciones de lesiones del MMII 1",
+                "Desarrollo profesional en recuperaciones de lesiones del MMII 2",
+                "Desarrollo profesional en readaptación de lesiones del suelo pélvico y raquis",
+                "Desarrollo profesional en recuperación de lesiones del MMSS y tejidos blandos"
+            ],
+            "certificaciones": [
+                "Fases generales de la readaptación", 
+                "Herramientas para el manejo del paciente lesionado",
+                "Emprendimiento y readaptación",
+                "Valoración del aparato locomotor: MMSS",
+                "Valoración del aparato locomotor: RAQUIS",
+                "Valoración del aparato locomotor: MMII",
+                "Fuerza y su aplicación a la readaptación de lesiones",
+                "Restricción del flujo sanguíneo y regeneración de tejidos",
+                "Suplementación nutricional como ayuda a la regeneración de tejidos",
+                "Superficies inestables y su aplicación a la readaptación de lesiones",
+                "Resistencias variables y su aplicación a la recuperación de lesiones",
+                "Medio acuático y su aplicación a la readaptación",
+                "Anatomía y lesiones del complejo pie-tobillo",
+                "Valoración y readaptación de lesiones del pie-tobillo",
+                "Valoración de la marcha",
+                "Anatomía y lesiones del complejo de la rodilla",
+                "Valoración y readaptación de la rodilla",
+                "Lesiones del complejo de la cadera y su readaptación",
+                "Suelo pélvico y su importancia en la readaptación de lesiones",
+                "Patología del complejo lumbar",
+                "Readaptación en lesión lumbar",
+                "Lesiones del complejo articular del hombro",
+                "Readaptación del complejo del hombro",
+                "Readaptación en lesiones musculares y tendinosas"
+            ],
+            "tfm": "TFM del Máster de Prevención y Readaptación de Lesiones",
+            "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_prevencion.jpg"]
+    },
+
+    "PLANIFICACION_DEPORTIVA": {
+        "nombre": ["MADRE_MASTER_PLANIFICACION"],
+        "especialistas": [
+            "ESPECIALISTA EN CUALIDADES FÍSICAS Y BASES NUTRICIONALES",
+            "ESPECIALISTA EN PLANIFICACIÓN DEL ENTRENAMIENTO Y READAPTACIÓN DE LESIONES"
+        ],
+        "expertos": [
+            "EXPERTO EN CUALIDADES FÍSICAS",
+            "EXPERTO EN SUPLEMENTACIÓN Y POBLACIONES ESPECIALES",
+            "EXPERTO EN EJERCICIO TERAPÉUTICO Y ENTRENAMIENTO FUNCIONAL PARA LA READAPTACIÓN DE LESIONES",
+            "EXPERTO EN PLANIFICACIÓN DEL ENTRENAMIENTO PARA DEPORTES COLECTVOS E INDIVIDUALES"
+        ],
+        "despros": [
+            "Desarrollo profesional en entrenamiento de la fuerza",
+            "Desarrollo profesional en resistencia y movilidad",
+            "Desarrollo profesional en nutrición deportiva aplicada al rendimiento",
+            "Desarrollo profesional en prescripción de ejercicio en poblacion general y especial",
+            "Desarrollo profesional en readaptación de lesiones",
+            "Desarrollo profesional en entrenamiento funcional aplicado a la prevención de lesiones",
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva en deportes de equipo",
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva en deportes individuales"
+        ],
+        "certificaciones": [
+            "Hipertrofia y estética corporal", 
+            "Fuerza y su aplicación al rendimiento",
+            "Fuerza y su aplicación al ámbito de la salud",
+            "Resistencia aeróbica",
+            "HIIT",
+            "Movilidad articular",
+            "Conceptos básicos de la nutrición deportiva",
+            "Nutrición y deportes de fuerza",
+            "Nutrición y deportes de resistencia",
+            "Entrenamiento en prepúberes",
+            "Entrenamiento con adultos jóvenes",
+            "Entrenamiento con personas mayores",
+            "Ejercicio físico y lesiones de tendón",
+            "Ejercicio físico y lesión muscular",
+            "Ejercicio físico y lesión articular",
+            "Activación del core: bases y aplicaciones prácticas",
+            "Inestabilidades como herramienta para el entrenamiento funcional",
+            "Materiales para el entrenamiento funcional: TRX",
+            "Principios del entrenamiento y modelos de planificación",
+            "Planificación del entrenamiento en deportes de equipo: fútbol",
+            "Planificación del entrenamiento en deportes de equipo: baloncesto",
+            "Planificación del entrenamiento en deportes de agua: natación",
+            "Planificación del entrenamiento en deportes de contacto",
+            "Planificación del entrenamiento en deportes de raqueta: tenis y otros deportes de raqueta"
+        ],
+        "tfm": "TFM del Máster en Planificación del Entrenamiento Deportivo",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_planificacion.jpg"]
+    },
+
+    "PLANIFICACION_ESPORTS": {
+        "nombre": ["MADRE_MASTER_PLANIFICACION_ESPORTS"],
+        "especialistas": [
+            "ESPECIALISTA EN PLANIFICACIÓN DEL ENTRENAMIENTO PARA ESPORTS",
+            "ESPECIALISTA EN PLANIFICACIÓN Y DISEÑO DE ENTRENAMIENTOS ESPECÍFICOS AL GAMING"
+        ],
+        "expertos": [
+            "EXPERTO EN PLANIFICACIÓN DE ENTRENAMIENTOS INDIVIDUALES Y COLECTIVOS EN LOS ESPORTS", 
+            "EXPERTO EN ENTRENAMIENTO INTEGRAL PARA JUGADORES EN LOS ESPORTS", 
+            "EXPERTO EN PLANIFICACIÓN DEL ENTRENAMIENTO DEPORTIVO PARA LOS ESPORTS", 
+            "EXPERTO EN EJERCICIOS TERAPÉUTICOS Y ENTRENAMIENTOS FUNCIONALES EN LOS ESPORTS"
+        ],
+        "despros": [
+            "Desarrollo profesional en bases teórico-prácticas de la planificación en esports individuales", 
+            "Desarrollo profesional en bases teórico-prácticas de la planificación en esports en equipo", 
+            "Desarrollo profesional en pilares esenciales del entrenamiento en esports", 
+            "Desarrollo profesional en entrenamiento mental y psicológico en esports", 
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva para eSports individuales", 
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva para eSports colectivos", 
+            "Desarrollo profesional en readaptación de lesiones", 
+            "Desarrollo profesional en entrenamiento funcional en los esports"
+        ],
+        "certificaciones": [
+            "Principios del entrenamiento y modelos de planificación aplicado a los esports", 
+            "Análisis de los juegos individuales en los esports",
+            "Objetivos individuales en los esports", 
+            "Análisis de los juegos colectivos en los esports", 
+            "Objetivos del equipo en los esports", 
+            "\"Gaming House\" como centro de entrenamiento en los esports", 
+            "Planificación del calendario en los esports", 
+            "Nutrición y rendimiento en los esports", 
+            "Lesiones físicas en los eSports", 
+            "Gestión del estrés en los esports", 
+            "Gestión de la presión en los esports", 
+            "Habilidades cognitivas y estrategias de concentración en los esports", 
+            "Programas de ejercicio para juegos de fútbol en los esports", 
+            "Programas de ejercicio para juegos de cartas en los esports", 
+            "Programas de ejercicio para juegos de lucha en los esports", 
+            "Programas de ejercicio para MOBA en los esports", 
+            "Programas de ejercicio para Shooters en los esports", 
+            "Programas de ejercicio para Battle Royale en los esports", 
+            "Ejercicio físico y lesiones de tendón", 
+            "Ejercicio físico y lesión muscular", 
+            "Ejercicio físico y lesión articular", 
+            "Programa de entrenamiento de tren superior en los esports", 
+            "Programa de entrenamiento de tren inferior en los esports", 
+            "Programa de entrenamiento específico óculo-manual en los esports"
+        ],
+        "tfm": "TFM del Máster en Planificación y Entrenamiento para Esports",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_planificacion_entrenamiento.jpg"]
+    },
+
+    "NUTRICION": {
+        "nombre": ["MADRE_MASTER_NUTRICION"],
+        "especialistas": [
+            "ESPECIALISTA EN NUTRICIÓN DEPORTIVA", 
+            "ESPECIALISTA EN NUTRICIÓN CLÍNICA"
+        ],
+        "expertos": [
+            "EXPERTO EN NUTRICIÓN DEPORTIVA Y SUPLEMENTACIÓN", 
+            "EXPERTO EN NUTRICIÓN EN SITUACIONES ESPECIALES", 
+            "EXPERTO EN NUTRICIÓN PEDIÁTRICA", 
+            "EXPERTO EN NUTRICIÓN EN LA TERCERA EDAD"
+        ],
+        "despros": [
+            "Desarrollo profesional en conceptos básicos de la nutrición deportiva", 
+            "Desarrollo profesional en ayudas ergogénicas y suplementación", 
+            "Desarrollo profesional en requerimientos especiales en el deporte", 
+            "Desarrollo profesional en diferentes estrategias nutricionales", 
+            "Desarrollo profesional en nutrición durante la primera etapa de la vida", 
+            "Desarrollo profesional en patologías pediátricas", 
+            "Desarrollo profesional en valoración del estado nutricional del anciano", 
+            "Desarrollo profesional en patologías asociadas a la tercera edad"
+        ],
+        "certificaciones": [
+            "Bases teóricas en nutrición deportiva", 
+            "Nutrición en deportes de fuerza", 
+            "Nutrición en deportes de resistencia", 
+            "Definiciones, legislación y seguridad alimentaria", 
+            "Clasificación de suplementos", 
+            "Hidratación en el deporte", 
+            "Nutrición aplicada a vegetarianos y veganos", 
+            "Nutrición aplicada a mujeres deportistas", 
+            "TCA (trastornos en la conducta alimentaria) en el deporte", 
+            "Dieta cetogénica o Low carbs", 
+            "Ayuno intermitente", 
+            "Dieta paleo", 
+            "Embarazo", 
+            "Alimentación en niños de 0-3 años", 
+            "Alimentación complementaria", 
+            "Valoración nutricional del niño sano", 
+            "Nutrición en patologías asociadas al estilo de vida del niño y el adolescente", 
+            "Nutrición en diferentes patologías del niño y adolescente", 
+            "Generalidades de la nutrición del anciano", 
+            "Alimentación equilibrada en el anciano", 
+            "Evaluación del estado nutricional del anciano", 
+            "Nutrición y sindrome metabólico del anciano", 
+            "Nutrición y patología neuronal, digestiva y pulmonar", 
+            "Nutrición y patología del aparato locomotor, renal y oncológica"
+        ],
+        "tfm": "TFM del Máster en Nutrición Deportiva y Clínica en las diferentes etapas de la vida",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_nutricion.jpg"]
+    },
+
+    "MEDIACION": {
+        "nombre": ["MADRE_MASTER_MEDIACION"],
+        "especialistas": [
+            "ESPECIALISTA EN MEDIACIÓN FAMILIAR COMO TÉCNICA DE SOLUCIÓN DE CONFLICTOS", 
+            "ESPECIALISTA EN HABILIDADES PARA GESTIÓN DE CONFLICTOS"
+        ],
+        "expertos": [
+            "EXPERTO EN MEDIACIÓN FAMILIAR", 
+            "EXPERTO EN INTERVENCIÓN EN SITUACIONES DE CONFLICTO", 
+            "EXPERTO EN SOLUCIÓN DE CONFLICTOS", 
+            "EXPERTO EN GESTIÓN DE LAS EMOCIONES"
+        ],
+        "despros": [
+            "Desarrollo profesional en mediación familiar y competencias del mediador", 
+            "Desarrollo profesional aspectos jurídicos de la mediación", 
+            "Desarrollo profesional en intervención en violencia doméstica y de género", 
+            "Desarrollo profesional en intervención en situaciones de conflicto familiar", 
+            "Desarrollo profesional en análisis del conflicto", 
+            "Desarrollo profesional en habilidades comunicativas", 
+            "Desarrollo profesional en gestión de las emociones en situaciones de conflicto", 
+            "Desarrollo profesional en gestión de emociones para el desarrollo personal"
+        ],
+        "certificaciones": [
+            "Concepto de mediación y aplicación al ámbito familiar", 
+            "Dinámica, fases y participantes en la mediación", 
+            "Competencias y habilidades del mediador", 
+            "Marco normativo Europeo de la mediación", 
+            "Marco normativo estatal de la mediación", 
+            "Eficacia jurídica del acuerdo de mediación", 
+            "Identificación de violencia doméstica y de género", 
+            "Análisis de las consecuencias de la violencia doméstica", 
+            "Protocolo de intervención en situaciones de violencia de género",
+            "Identificación del maltrato infantil", 
+            "Análisis de las consecuencias del maltrato infantil", 
+            "Protocolo de intervención en maltrato infantil", 
+            "Análisis de los diferentes tipos de conflictos", 
+            "Estrategias de negociación aplicadas a situaciones de conflicto", 
+            "Análisis de las consecuencias del conflicto y la toma de decisiones", 
+            "Comunicación efectiva", 
+            "Comunicación verbal", 
+            "Comunicación no verbal", 
+            "Identificación de las emociones y los sentimientos", 
+            "Estrategias de prevención del conflicto", 
+            "Control de las emociones durante el conflicto", 
+            "Procesos de comprensión de nuestras emociones", 
+            "Estrategias para mejorar la confianza en uno mismo", 
+            "Desarrollo del pensamiento positivo"
+        ],
+        "tfm": "TFM del Máster en Mediación Familiar y Gestión de Conflictos",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_mediacion_familiar.jpg"]
+    },
+
+    "ECOMMERCE": {
+        "nombre": ["MADRE_MASTER_ECOMMERCE"],
+        "especialistas": [
+            "ESPECIALISTA EN MODELOS DE NEGOCIO Y MARKETING DIGITAL", 
+            "ESPECIALISTA EN POSICIONAMIENTO Y SOCIAL MEDIA"
+        ],
+        "expertos": [
+            "EXPERTO EN MARKETING DIGITAL", 
+            "EXPERTO EN ECOMMERCE", 
+            "EXPERTO EN SEO Y SEM", 
+            "EXPERTO EN SOCIAL MEDIA Y DISEÑO APLICADO"
+        ],
+        "despros": [
+            "Desarrollo profesional en Marketing Digital", 
+            "Desarrollo profesional en Gestión y creación de modelos de negocio en Internet", 
+            "Desarrollo profesional en Plataformas y bases de HTML y CSS", 
+            "Desarrollo profesional en Modelos de negocio", 
+            "Desarrollo profesional en SEO", 
+            "Desarrollo profesional en SEM", 
+            "Desarrollo profesional en social media", 
+            "Desarrollo profesional en content manager"
+        ],
+        "certificaciones": [
+            "Introducción al Marketing Digital", 
+            "Inbound. ¿Cómo hacer que compren?", 
+            "Outbound. Compitiendo por un nicho de mercado", 
+            "Ecommerce", 
+            "Analíticas", 
+            "Negocios en la red", 
+            "CMS", 
+            "HTML", 
+            "Plataformas de ecommerce", 
+            "Digital business models", 
+            "E-Shop y otros modelos de negocio", 
+            "Marketplace", 
+            "Conceptos clave del SEO", 
+            "Técnicas y tipos de SEO", 
+            "SEO avanzado", 
+            "Conceptos clave del SEM", 
+            "Campañas y estrategias SEM", 
+            "SEM avanzado", 
+            "Introducción al ecosistema social", 
+            "Principales redes sociales, Social Ads y Social Commerces", 
+            "Gestión de RRSS", 
+            "Social media strategy", 
+            "Copywriting", 
+            "Visual content"
+        ],
+        "tfm": "TFM del Máster em Marketing Digital y Ecommerce",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_marketing.jpg"]
+    },
+
+    "GESTION_ESPORTS": {
+        "nombre": ["MADRE_MASTER_GESTION_ESPORTS"],
+        "especialistas": [
+            "ESPECIALISTA EN NUEVAS TENDENCIAS DIGITALES Y SUS ASPECTOS LEGALES EN ESPORTS", 
+            "ESPECIALISTA EN PLANIFICACION DE ESTRATEGIAS DE COMUNICACIÓN Y ESTRUCTURAS DEPORTIVAS EN ESPORTS"
+        ],
+        "expertos": [
+            "EXPERTO EN RECONOCIMIENTO DE PRINCIPALES ACTIVOS DE LA INDUSTRIA DE LOS ESPORTS", 
+            "EXPERTO EN ASPECTOS LEGALES, JURÍDICOS Y ECONÓMICOS DE LOS ESPORTS", 
+            "EXPERTO EN COMUNICACIÓN Y CONTENIDOS DIGITALES", 
+            "EXPERTO EN GESTIÓN DEPORTIVA APLICADA A ESPORTS"
+        ],
+        "despros": [
+            "Desarrollo profesional en contexto en los esports", 
+            "Desarrollo profesional en contexto Socioeconómico de la Industria de los esports", 
+            "Desarrollo profesional en marco legal de los esports", 
+            "Desarrollo profesional en financiación en los esports", 
+            "Desarrollo profesional en marketing y comunicación de los esports", 
+            "Desarrollo profesional en gestión de contenidos y Plataformas de Retransmisión para los esports", 
+            "Desarrollo profesional en gestión de equipos y clubes de esports", 
+            "Desarrollo profesional en gestión de competiciones y eventos de esports"
+        ],
+        "certificaciones": [
+            "Evolución histórica de los videojuegos", 
+            "El fenómeno de los esports", 
+            "Actores principales y cadena de valor", 
+            "Panorama general de los esports y ecosistema actual", 
+            "Modelos de negocios y relaciones fundamentales en el territorio", 
+            "Nuevas tendencias en los esports", 
+            "Situación jurídica de los esports a nivel nacional e internacional", 
+            "Relaciones laborales en los esports", 
+            "Derechos de propiedad intelectual en los esports", 
+            "¿Cómo conseguir financiación en los esports?", 
+            "Valoración, dilución y éxito de una compañía", 
+            "Casos de éxito en los esports", 
+            "Estrategias de Marketing y Comunicación adaptadas al target de los esports", 
+            "Engagement en los esports", 
+            "Elaboración de propuestas comerciales para los esports", 
+            "Medios de comunicación y redes sociales como herramientas de comunicación en los esports", 
+            "Plataformas de contenido en los esports", 
+            "Influencers y/o creadores de contenido en los esports", 
+            "Estructuras organizativas de un club de esports", 
+            "Gestión de equipos deportivos de esports", 
+            "Gestión de patrocinios publicitarios en equipos y clubes de esports", 
+            "Estructuras organizativas de una liga de esports", 
+            "Planteamiento, organización, ejecución y análisis de un evento de esports", 
+            "Gestión de patrocinios publicitarios en eventos y competiciones de esports"
+        ],
+        "tfm": ["TFM del Máster en Gestión de Esports"],
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_gestion_esports.jpg"]
+    },
+
+    "FUTBOL": {
+        "nombre": ["MADRE_MASTER_FUTBOL"],
+        "especialistas": [
+            "ESPECIALISTA EN ANÁLISIS Y METODOLOGÍA DEL ENTRENAMIENTO EN FÚTBOL", 
+            "ESPECIALISTA EN GESTIÓN DE EQUIPOS Y PSICOLOGÍA ESPECÍFICA EN FÚTBOL"
+        ],
+        "expertos": [
+            "EXPERTO EN ANÁLISIS Y SISTEMAS DE ENTRENAMIENTO EN FÚTBOL", 
+            "EXPERTO EN ANÁLISIS DE SISTEMAS Y CREACIÓN DE UN MODELO DE JUEGO EN FÚTBOL", 
+            "EXPERTO EN DIRECCIÓN DE GRUPOS Y PSICOLOGÍA DEPORTIVA ESPECÍFICA EN FÚTBOL", 
+            "EXPERTO EN ANÁLISIS DEL JUEGO Y APLICACIÓN DE HERRAMIENTAS TECNOLÓGICAS EN FÚTBOL"
+        ],
+        "despros": [
+            "Desarrollo profesional en análisis y diseño de sistemas de entrenamiento en el fútbol", 
+            "Desarrollo profesional en metodología del entrenamiento y diseño de tareas en el fútbol", 
+            "Desarrollo profesional en interpretación, estructuras y sistemas de juego en fútbol", 
+            "Desarrollo profesional en el diseño de modelos de juego en fútbol", 
+            "Desarrollo profesional en diseño de la planificación de conceptos técnico-tácticos y uso de técnicas optimizadoras del rendimiento del futbolista", 
+            "Desarrollo profesional en psicología deportiva aplicada al fútbol", 
+            "Desarrollo profesional en el conocimiento del juego y desarrollo de informes en fútbol", 
+            "Desarrollo profesional en el empleo de herramientas tecnológicas aplicadas al análisis del alto rendimiento en el fútbol"
+        ],
+        "certificaciones": [
+            "Metodología del entrenamiento de la técnica y táctica individual-colectiva del fútbol", 
+            "Diseño de progresiones significativas de entrenamiento en el fútbol", 
+            "Entrenamiento específico del portero", 
+            "Sistemas de entrenamiento en situaciones reducidas en el fútbol", 
+            "Sistemas de entrenamiento específico por puestos y lineas en el fútbol", 
+            "Sistemas de entrenamiento integrado, estructurado y situaciones reales de juego en el fútbol", 
+            "Interpretación de los estilos de juego en fútbol", 
+            "Interpretación de las diferentes fases del juego de fútbol", 
+            "Interpretación de los diferentes sistemas técnico-tácticos de fútbol", 
+            "Diseño de modelos de salida de balón, el ataque posicional y las transiciones en el fútbol", 
+            "Diseño de modelos de tipos de presión, defensa organizada y acciones a balón parado", 
+            "Diseño de modelo de juego en el fútbol", 
+            "Diseño de la programación del macrociclo, mesociclo y microciclo en el fútbol", 
+            "Dominio y capacidad para la toma de decisiones relevantes en el entrenamiento y partido en el fútbol", 
+            "Dirección de equipos femeninos en el fútbol", 
+            "Gestión de conflictos y estrés competitivo en el fútbol", 
+            "Diferentes tipos de liderazgo aplicados a la dirección de equipos en el fútbol", 
+            "Integración de contenidos psicológicos en el entrenamiento de fútbol", 
+            "Análisis del propio equipo y del equipo rival en el fútbol", 
+            "Análisis individualizado y análisis del entrenamiento en el fútbol", 
+            "Elaboración de informes de alto rendimiento en cantera y en equipos de máximo nivel en el fútbol", 
+            "El uso de software para la edición de vídeo y representación gráfica en el fútbol", 
+            "La interpretación de datos de partido y su transferencia al entrenamiento en el fútbol", 
+            "Análisis del funcionamiento de estructuras en fútbol, desde el alto rendimiento hasta el fútbol base"
+        ],
+        "tfm": "TFM del Máster en Entrenamiento, Análisis del Juego y Dirección de Equipos en Fútbol",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_entrenamiento_analisis.jpg"]
+    },
+
+    "ENTRENAMIENTO": {
+        "nombre": ["MADRE_MASTER_ENTRENAMIENTO"],
+        "especialistas": [
+            "ESPECIALISTA EN NUEVAS TENDENCIAS EN EL ENTRENAMIENTO Y POSICIONAMIENTO EN EL SECTOR DEL FITNESS", 
+            "ESPECIALISTA EN PLANIFICACIÓN Y DISEÑO DE ENTRENAMIENTO EN RENDIMIENTO Y POBLACIÓN PATOLÓGICA"
+        ],
+        "expertos": [
+            "EXPERTO EN MÉTODOS MODERNOS EN EL DESARROLLO DE LAS CUALIDADES FÍSICAS BÁSICAS Y APLICACIONES TECNOLÓGICAS", 
+            "EXPERTO EN ESTRATEGIAS PARA EL EMPRENDIMIENTO Y SUPLEMENTACIÓN DEPORTIVA", 
+            "EXPERTO EN EJERCICIO TERAPÉUTICO Y ENTRENAMIENTO FUNCIONAL", 
+            "EXPERTO EN PLANIFICACIÓN DEL ENTRENAMIENTO ORIENTADO A LA SALUD"
+        ],
+        "despros": [
+            "Desarrollo profesional en fuerza y movilidad", 
+            "Desarrollo profesional en aplicaciones tecnológicas en el ámbito del entrenamiento personal", 
+            "Desarrollo profesional en fecursos financieros y tecnológicos para el emprendimiento en el ámbito del entrenamiento personal", 
+            "Desarrollo profesional en nutrición deportiva aplicada al rendimiento", 
+            "Desarrollo profesional en recuperación de lesiones ", 
+            "Desarrollo profesional en entrenamiento funcional ", 
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva orientada a la salud", 
+            "Desarrollo profesional en bases teórico-prácticas de la planificación deportiva orientada al rendimiento"
+        ],
+        "certificaciones": [
+            "Entrenamiento de la fuerza basado en la velocidad", 
+            "Eficiencia en la carrera para la mejora de la resistencia", 
+            "Movilidad y rendimiento", 
+            "App tecnológicas para el control del entrenamiento (I)", 
+            "App tecnológicas para el control del entrenamiento (II)", 
+            "App tecnológicas para el control del entrenamiento (III)", 
+            "Estrategia financieras para el emprendimiento en el ámbito del entrenamiento personal", 
+            "Diseño de páginas web en el ámbito del entrenamiento personal", 
+            "Posicionamiento en redes sociales en el ámbito del entrenamiento personal", 
+            "Conceptos básicos de la nutrición deportiva", 
+            "Nutrición y deportes de fuerza", 
+            "Nutrición y deportes de resistencia", 
+            "Ejercicio físico y lesiones de tendón", 
+            "Ejercicio físico y lesión muscular", 
+            "Ejercicio físico y lesión articular", 
+            "Materiales para el entrenamiento funcional", 
+            "Activación del core: bases y aplicaciones prácticas",
+            "Inestabilidades como herramienta para el entrenamiento funcional",
+            "Diseño de programas de ejercicio en patología metabólica I: Obesidad", 
+            "Diseño de programas de ejercicio en patología metabólica II: Diabetes", 
+            "Diseño de programas de ejercicio en patología lumbar", 
+            "Programas de ejercicio en pruebas de oposición", 
+            "Programas de ejercicio en población sana sedentaria", 
+            "Programas de ejercicio en deportes de larga duración"
+        ],
+        "tfm": "TFM del Máster de Entrenamiento Personal",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_entrenador_personal.jpg"]
+    },
+
+    "COSMETICA": {
+        "nombre": ["MADRE_MASTER_COSMETICA"],
+        "especialistas": [
+            "ESPECIALISTA EN LEGISLACIÓN, SEGURIDAD, FORMAS FARMACÉUTICAS Y EFICACIA DE LAS FORMULACIONES COSMÉTICAS", 
+            "ESPECIALISTA EN GESTIÓN DE LA DERMOCOSMÉTICA Y PATOLOGÍAS DERMATOLÓGICAS MÁS HABITUALES EN LA OFICINA DE FARMACIA"
+        ],
+        "expertos": [
+            "EXPERTO EN LA PIEL, SEGURIDAD, EFICACIA Y LEGISLACIÓN DE LAS FORMULACIONES COSMÉTICAS", 
+            "EXPERTO EN FORMAS FARMACÉUTICAS Y NUEVAS TENDENCIAS DE LAS FORMULACIONES COSMÉTICAS", 
+            "EXPERTO EN DERMOCOSMÉTICA DE PATOLOGÍAS DERMATOLÓGICAS EN LA OFICINA DE FARMACIA", 
+            "EXPERTO EN GESTIÓN DE LA DERMOCOSMÉTICA EN LA OFICINA DE FARMACIA"
+        ],
+        "despros": [
+            "Desarrollo profesional en estructura, fototipos y vigilancia de la piel", 
+            "Desarrollo profesional en legislación sobre formulaciones cosméticas", 
+            "Desarrollo profesional en materia prima, forma farmacéutica y diseño de los productos cosméticos", 
+            "Desarrollo profesional en nanocosmética, nutricosméticos y fotoprotección", 
+            "Desarrollo profesional en procesos dermatológicos en la oficina de farmacia", 
+            "Desarrollo profesional en belleza en la oficina de farmacia", 
+            "Desarrollo profesional en funcionamiento de la dermocosḿetica en la oficina de farmacia", 
+            "Desarrollo profesional en cómo potenciar la dermocosmética en la oficina de farmacia"
+        ],
+        "certificaciones": [
+            "Estructura, bioquímica, envejecimiento y funciones de la piel", 
+            "Fototipos y tipologías cutáneas", 
+            "Cosmetovigilancia", 
+            "Legislación española y europea de productos cosméticos", 
+            "Requisitos para la comercialización de productos cosméticos", 
+            "Evaluación de la seguridad y eficacia de los productos cosméticos", 
+            "Materia prima, excipientes y activos cosméticos más empleados", 
+            "Diseño de los productos cosméticos y principales texturas cosméticas", 
+            "Formas farmacéuticas galénicas más habituales en la oficina de farmacia", 
+            "Tendencias y novedades: nanocosmética", 
+            "Nutricosméticos", 
+            "Fotoprotección: cosmética solar, protección cutánea y capilar", 
+            "Acné, dermatitis seborreica, psoriasis, rosácea y cuperosis", 
+            "Piel atópica, piel seca, piel sensible y xerosis", 
+            "Oncología: tratamientos dermocosméticos", 
+            "Dermocosmética capilar y dermocosmética masculina", 
+            "Belleza, maquillaje y perfumería", 
+            "Celulitis y flacidez", 
+            "Categorización de los cosméticos en la oficina de farmacia", 
+            "Gestionando las personas: Equipo de trabajo y atención dermofarmacéutica", 
+            "Técnicas de análisis cutáneo y capilar en la oficina de farmacia", 
+            "Ventas de dermocosmética: técnicas, herramientas y protocolos", 
+            "Estrategia digital: Nuevas tecnologías para potenciar la dermofarmacia", 
+            "Diferencia tu farmacia. Mercado de la dermofarmacia y Plan de Marketing"
+        ],
+        "tfm": "TFM del Máster en Cosmética y Dermofarmacia",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_cosmetica.jpg"]
+    },
+
+    "ATENCION": {
+        "nombre": ["MADRE_MASTER_ATENCION"],
+        "especialistas": [
+            "ESPECIALISTA EN INNOVACIÓN EDUCATIVA", 
+            "ESPECIALISTA EN DETECCIÓN E INTERVENCIÓN EN ATENCIÓN TEMPRANA"
+        ],
+        "expertos": [
+            "EXPERTO EN INNOVACIÓN EDUCATIVA Y METODOLOGÍAS INNOVADORAS", 
+            "EXPERTO EN DISCIPLINA POSTIVA", 
+            "EXPERTO EN DETECCIÓN EN ATENCIÓN TEMPRANA", 
+            "EXPERTO EN ACTUACIÓN EN ATENCIÓN TEMPRANA"
+        ],
+        "despros": [
+            "Desarrollo profesional en iniciación a la innovación", 
+            "Desarrollo profesional en principales metodologías innovadoras", 
+            "Desarrollo profesional en iniciación a la disciplina positiva", 
+            "Desarrollo profesional en aplicación a la disciplina positiva", 
+            "Desarrollo profesional en iniciación a la atención temprana", 
+            "Desarrollo profesional en principales trastornos relacionados con la atención temprana", 
+            "Desarrollo profesional en la aplicación de la atención temprana", 
+            "Desarrollo profesional en otros aspectos importantes a tener en cuenta en atención temprana"
+        ],
+        "certificaciones": [
+            "Teoría de la educación y pedagogía social", 
+            "Historia de la educación y educación comparada", 
+            "Investigación e innovación en diagnóstico y orientación", 
+            "Innovación e investigación en didáctica", 
+            "Investigación en organización e innovación de las instituciones educativas", 
+            "Investigación sobre calidad y equidad en educación", 
+            "Fundamentos de una educación basada en el respeto", 
+            "Características psicoemocionales de los infantes", 
+            "Gestión emocional", 
+            "Autoconocimiento", 
+            "Mal comportamiento de los menores", 
+            "Herramientas respetuosas para gestionar el aula", 
+            "Generalidades de la atención temprana", 
+            "Bases neurobiológicas del desarrollo y maduración en la atención temprana", 
+            "Familia y atención temprana", 
+            "Intervención en los distintos trastornos y situaciones de riesgo (I)", 
+            "Intervención en los distintos trastornos y situaciones de riesgo (II)", 
+            "Intervención en los distintos trastornos y situaciones de riesgo (III)", 
+            "Intervención complementaria y recursos en atención temprana (I)", 
+            "Intervención complementaria y recursos en atención temprana (II)", 
+            "Intervención complementaria y recursos en atención temprana (III)", 
+            "Atención temprana y educación", 
+            "Educación emocional en atención temprana", 
+            "La psicomotricidad: intervención terapéutica y neuroeducativa en atención primaria"
+        ],
+        "tfm": "TFM del Máster en Atención Temprana e Innovación Educativa",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_atencion_temprana.jpg"]
+    },
+
+    "TENIS": {
+        "nombre": ["MADRE_MASTER_TENIS"],
+        "especialistas": [
+            "ESPECIALISTA EN ANÁLISIS, METODOLOGÍA Y RENDIMIENTO EN EL TENIS", 
+            "ESPECIALISTA EN ENTRENAMIENTO, ORGANIZACIÓN DE EVENTOS Y EQUIPAMIENTO EN EL TENIS"
+        ],
+        "expertos": [
+            "EXPERTO EN ANÁLISIS DEL RENDIMIENTO EN TENIS", 
+            "EXPERTO EN METODOLOGÍA Y ENTRENAMIENTO EN EL TENIS", 
+            "EXPERTO EN DESARROLLO Y ENTRENAMIENTO DE JUGADORES DE TENIS", 
+            "EXPERTO EN ORGANIZACIÓN DE EVENTOS, EQUIPAMIENTOS Y OTRAS MODALIDADES DE TENIS"
+        ],
+        "despros": [
+            "Desarrollo profesional en investigación en el tenis", 
+            "Desarrollo profesional en análisis técnico-táctico y físico en el tenis", 
+            "Desarrollo profesional en metodología y entrenamiento de la técnica y táctica en el tenis", 
+            "Desarrollo profesional en preparación física en el tenis", 
+            "Desarrollo profesional en desarrollo del jugador de tenis", 
+            "Desarrollo profesional en entrenamiento complementario en el tenis", 
+            "Desarrollo profesional en organización de eventos de tenis", 
+            "Desarrollo profesional en materiales, equipamientos y otras modalidades del tenis"
+        ],
+        "certificaciones": [
+            "Investigación aplicada al tenis", 
+            "Estadística aplicada al tenis (I)", 
+            "Estadística aplicada al tenis (II) y elaboración de informes", 
+            "Análisis de la técnica en el tenis", 
+            "Análisis de la táctica en el tenis", 
+            "Análisis y valoración de la condición física en el tenis", 
+            "Metodología, enseñanza y aprendizaje en el tenis", 
+            "Entrenamiento técnico-táctico en el tenis masculino", 
+            "Entrenamiento técnico-táctico en el tenis femenino", 
+            "Entrenamiento de fuerza y resistencia en el tenis", 
+            "Entrenamiento de velocidad, agilidad y coordinación en el tenis", 
+            "Control de la carga de entrenamiento en el tenis", 
+            "Desarrollo del tenis base", 
+            "Desarrollo etapa tenis avanzado y competición", 
+            "Programación y evaluación aplicado al tenis", 
+            "Psicología aplicada al tenis", 
+            "Nutrición y ayudas ergogénicas en el tenis", 
+            "Prevención de lesiones en el tenis", 
+            "Organización de eventos nacionales e internacionales de tenis", 
+            "Organización de eventos de touchTennis y tenis playa", 
+            "Organización de eventos de promoción de tenis", 
+            "Raquetas y cordajes", 
+            "Pavimentos de tenis", 
+            "Tenis en silla de ruedas"
+        ],
+        "tfm": "TFM del Máster en Análisis del Rendimiento, desarrollo e innovación en el tenis",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_analisis_rendimiento_innovacion.jpg"]
+    },
+
+    "GESTION_ENTIDADES": {
+        "nombre": ["MADRE_MASTER_GESTION_ENTIDADES"],
+        "especialistas": [
+            "ESPECIALISTA EN ESTRATEGIA Y MARKETING EN EL SECTOR DEPORTIVO", 
+            "ESPECIALISTA EN GESTIÓN OPERATIVA EN EL SECTOR DEPORTIVO"
+        ],
+        "expertos": [
+            "EXPERTO EN ESTRATEGIA", 
+            "EXPERTO EN MÁRKETING DEPORTIVO", 
+            "EXPERTO EN GESTIÓN DE OPERACIONES Y PERSONAS", 
+            "EXPERTO EN EMPRENDIMIENTO, INVERSIÓN Y GESTIÓN ECONÓMICA"
+        ],
+        "despros": [
+            "Desarrollo Profesional en análisis estratégico del sector deportivo", 
+            "Desarrollo Profesional en competir y crecer en el sector deportivo", 
+            "Desarrollo Profesional en conceptos básicos de marketing en el sector deportivo", 
+            "Desarrollo Profesional en puesta en marcha del plan de marketing", 
+            "Desarrollo Profesional en gestión de operaciones en el sector deportivo", 
+            "Desarrollo Profesional en liderazgo y crecimiento de la organización a través de las personas", 
+            "Desarrollo Profesional en gestión económica de la organización en el sector deportivo", 
+            "Desarrollo Profesional en emprendimiento y financiación en el sector deportivo"
+        ],
+        "certificaciones": [
+            "Herramientas de análisis estratégico", 
+            "Análisis sectorial en el mundo del deporte", 
+            "Análisis externo e interno de la organización", 
+            "Estrategias competitivas en el sector deportivo", 
+            "Estrategias de crecimiento en el sector", 
+            "Negocios digitales en el sector", 
+            "Visión general del marketing", 
+            "El cliente en el centro de la estrategia", 
+            "Generación de productos implantación del precio, elasticidad y ajuste", 
+            "Optimización de la satisfacción del cliente durante el conocimiento de nuestra marca", 
+            "Marketing digital, planes de acción y programas", 
+            "Plan de ventas", 
+            "Diseño partiendo del cliente y del cliente interno", 
+            "Procesos y protocolos en la organización", 
+            "Casos prácticos de diseño de operaciones en entidades deportivas", 
+            "Procesos para la construcción de la organización", 
+            "Procesos para hacer crecer la organización", 
+            "Liderazgo y empoderamiento de la organización", 
+            "Contextualización y balances", 
+            "Construcción y análisis de la cuenta de resultados", 
+            "Estrategias de gestión de la tesorería", 
+            "Financiación bancaria, ratios de inversión básicos y viabilidad de proyectos", 
+            "Diseño del plan de empresa", 
+            "La pasión por el emprendimiento"
+        ],
+        "tfm": "TFM del Máster en Gestión de Entidades Deportivas",
+        "url_img": ["https://public.medac.es/images/canvas/master_y_cursos/m_gestion_empresas.jpg"]
+    },
+
+    "LIDERAZGO": {
+        "nombre": ["MADRE_MASTER_LIDERAZGO"],
+        "especialistas": [
+            "Especialista en Liderazgo",
+            "Especialista en Gestión Emocional"
+        ],
+        "expertos": [
+            "Experto en Líder Coach",
+            "Experto en Líder del Equipo",
+            "Experto en La Emocionalidad del líder ",
+            "Experto en Emociones en el equipo "
+        ],
+        "despros": [
+            "Especialización Profesional en Liderazgo personal",
+            "Especialización Profesional en Liderazgo Sistémico",
+            "Especialización Profesional en Sentido y dirección",
+            "Especialización Profesional en Trabajo en Equipo",
+            "Especialización Profesional en La sabiduría de las emociones",
+            "Especialización Profesional en Inteligencia Emocional",
+            "Especialización Profesional en Habilidades emocionales para el equipo",
+            "Especialización Profesional en Gestión emocional del equipo"
+        ],
+        "certificaciones": [
+            "Certificación en La esencia del líder",
+            "Certificación en La mirada del líder",
+            "Certificación en El propósito del líder",
+            "Certificación en Sistema y equipo",
+            "Certificación en Escucha",
+            "Certificación en El líder que mueve al sistema ",
+            "Certificación en Comunicación ",
+            "Certificación en Liderazgo Participativo ",
+            "Certificación en Gestión del cambio ",
+            "Certificación en Alineación del equipo ",
+            "Certificación en Orientación al éxito ",
+            "Certificación en Cohesión de equipos",
+            "Certificación en Conociendo las emociones ",
+            "Certificación en Emociones vitales",
+            "Certificación en Emociones para la relación",
+            "Certificación en Autoconocimiento de las emociones",
+            "Certificación en Autogestión de las emociones",
+            "Certificación en Desarrollo de emociones",
+            "Certificación en PNL",
+            "Certificación en Conversaciones para el liderazgo",
+            "Certificación en Hábitos y rituales",
+            "Certificación en Gestión del estrés ",
+            "Certificación en Gestión de conflictos",
+            "Certificación en Inteligencia emocional en el equipo"
+        ],
+        "tfm": "TFM del Máster en Liderazgo Sistémico y Gestión Emocional",
+        "url_img": [""]
+    },
+
+    "ESPORT2": {
+        "nombre": ["MADRE_MASTER_ESPORT2"],
+        "especialistas": [
+            "ESPECIALISTA EN PLANIFICACIÓN DEL ENTRENAMIENTO PARA ESPORTS",
+            "ESPECIALISTA EN PLANIFICACIÓN Y DISEÑO DE ENTRENAMIENTOS ESPECÍFICOS AL GAMING"
+        ],
+        "expertos": [
+            "EXPERTO EN PLANIFICACIÓN DE ENTRENAMIENTOS INDIVIDUALES Y COLECTIVOS EN LOS ESPORTS",
+            "EXPERTO EN ENTRENAMIENTO INTEGRAL PARA JUGADORES EN LOS ESPORTS",
+            "EXPERTO EN PLANIFICACIÓN DEL ENTRENAMIENTO DEPORTIVO PARA LOS ESPORTS",
+            "EXPERTO EN EN EJERCICIOS TERAPÉUTICOS Y ENTRENAMIENTO FUNCIONALES EN LOS ESPORTS"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación en esports individual",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación en esports en equipo",
+            "Desarrollo Profesional en Pilares Esenciales del Entrenamiento en esports",
+            "Desarrollo Profesional en Entrenamiento Mental y Psicológico en esports",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación Deportiva en esports individual",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación Deportiva en esports en equipo",
+            "Desarrollo Profesional en Recuperación de Lesiones en los esports",
+            "Desarrollo Profesional en Entrenamiento Funcional en los esports"
+        ],
+        "certificaciones": [
+            "Principios del entrenamiento y modelos de planificación aplicado a los esports.", 
+            "Análisis de los juegos individuales en los esports.",
+            "Objetivos individuales en los esports.",
+            "Análisis de los juegos colectivos en los esports.",
+            "Objetivos del equipo en los esports.",
+            "Gaming House como centro de entrenamiento en los esports.",
+            "Planificación del calendario en los esports.",
+            "Nutrición y rendimiento en los esports.",
+            "Lesiones físicas en los esports.",
+            "Gestión del estrés en los esports.",
+            "Gestión de la presión en los esports.",
+            "Habilidades cognitivas y estrategias de concentración en los esports.",
+            "Programas de ejercicio para juegos de fútbol en los esports.", 
+            "Programas de ejercicio para juegos de cartas en los esports.",
+            "Programas de ejercicio para juegos de lucha en los esports.",
+            "Programas de Ejercicio para moba en los esports.",
+            "Programas de Ejercicio para shooters en los esports.",
+            "Programas de Ejercicio para battle royale en los esports.",
+            "Ejercicio Físico y Lesiones de Tendón en los esports.",
+            "Ejercicio Físico y Lesiones musculares en los esports.",
+            "Ejercicio Físico y Lesiones articulares en los esports.",
+            "Programa de entrenamiento de tren superior en los esports.",
+            "Programa de entrenamiento de tren inferior en los esports.",
+            "Programa de entrenamiento específico óculo-manual en los esports."
+        ],
+        "tfm": "TFM del Máster de Planificación del Entrenamiento para ESPORT",
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    }
+}
+
+    
+
+
+

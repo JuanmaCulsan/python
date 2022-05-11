@@ -1,0 +1,53 @@
+{
+    "MADRE_MASTER_PRUEBA_1": {
+        "nombre": ["MADRE_MASTER_PRUEBA_1"],
+        "especialistas": [
+            "ESPECIALISTA EN PLANIFICACIÓN DEL ENTRENAMIENTO PARA ESPORTS",
+            "ESPECIALISTA EN PLANIFICACIÓN Y DISEÑO DE ENTRENAMIENTOS ESPECÍFICOS AL GAMING"
+        ],
+        "expertos": [
+            "EXPERTO EN PLANIFICACIÓN DE ENTRENAMIENTOS INDIVIDUALES Y COLECTIVOS EN LOS ESPORTS",
+            "EXPERTO EN ENTRENAMIENTO INTEGRAL PARA JUGADORES EN LOS ESPORTS",
+            "EXPERTO EN PLANIFICACIÓN DEL ENTRENAMIENTO DEPORTIVO PARA LOS ESPORTS",
+            "EXPERTO EN EN EJERCICIOS TERAPÉUTICOS Y ENTRENAMIENTO FUNCIONALES EN LOS ESPORTS"
+        ],
+        "despros": [
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación en esports individual",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación en esports en equipo",
+            "Desarrollo Profesional en Pilares Esenciales del Entrenamiento en esports",
+            "Desarrollo Profesional en Entrenamiento Mental y Psicológico en esports",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación Deportiva en esports individual",
+            "Desarrollo Profesional en Bases Teórico Prácticas de la Planificación Deportiva en esports en equipo",
+            "Desarrollo Profesional en Recuperación de Lesiones en los esports",
+            "Desarrollo Profesional en Entrenamiento Funcional en los esports"
+        ],
+        "certificaciones": [
+            "Principios del entrenamiento y modelos de planificación aplicado a los esports.", 
+            "Análisis de los juegos individuales en los esports.",
+            "Objetivos individuales en los esports.",
+            "Análisis de los juegos colectivos en los esports.",
+            "Objetivos del equipo en los esports.",
+            "Gaming House como centro de entrenamiento en los esports.",
+            "Planificación del calendario en los esports.",
+            "Nutrición y rendimiento en los esports.",
+            "Lesiones físicas en los esports.",
+            "Gestión del estrés en los esports.",
+            "Gestión de la presión en los esports.",
+            "Habilidades cognitivas y estrategias de concentración en los esports.",
+            "Programas de ejercicio para juegos de fútbol en los esports.", 
+            "Programas de ejercicio para juegos de cartas en los esports.",
+            "Programas de ejercicio para juegos de lucha en los esports.",
+            "Programas de Ejercicio para moba en los esports.",
+            "Programas de Ejercicio para shooters en los esports.",
+            "Programas de Ejercicio para battle royale en los esports.",
+            "Ejercicio Físico y Lesiones de Tendón en los esports.",
+            "Ejercicio Físico y Lesiones musculares en los esports.",
+            "Ejercicio Físico y Lesiones articulares en los esports.",
+            "Programa de entrenamiento de tren superior en los esports.",
+            "Programa de entrenamiento de tren inferior en los esports.",
+            "Programa de entrenamiento específico óculo-manual en los esports."
+        ],
+        "tfm": "TFM del Máster de Planificación del Entrenamiento para ESPORT",
+        "url_img": ["https://public.medac.es/images/canvas/banner_generico.jpg"]
+    }
+}

@@ -1,0 +1,21 @@
+//Se crea el acceso directo al instituto virtual desde el menu lateral para la versión escritorio
+var initialLoad = true;
+$(window).load(function () {
+    if (initialLoad) {
+        initialLoad = false;
+        $("#menu").append('<li class="menu-item ic-app-header__menu-list-item "> <a id="instituto" role="button" href="https://instituto.medac.es" target="_blank" class="ic-app-header__menu-list-link"> <div class="menu-item-icon-container" aria-hidden="true"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="ic-icon-svg ic-icon-svg--accounts" x="0" y="0" viewBox="0 0 200 224" enable-background="new 0 0 200 224" xml:space="preserve"><path d="M87,83.47a9.53,9.53,0,1,1-9.53-9.53A9.53,9.53,0,0,1,87,83.47m35.26,62.28h17.29V128.45l-40-40,.44-4.19c.11-13.94-10.3-24.37-23.1-24.37a23.22,23.22,0,0,0,0,46.44l5.31-.6,7.18,7.17h16.86V126h13.14V142.9Zm30,12.71H117l-10.3-10.29v-9.43H93.57V125.59H84.16L77.58,119h-.65a35.93,35.93,0,1,1,35.92-35.92c0,.22,0,.43,0,.64l39.44,39.45ZM99.72,220.06a6.46,6.46,0,0,1-3-.78l-3.93-2.13c-34.84-18.92-82.55-44.81-82.55-99.89V49.59a6.37,6.37,0,0,1,3.65-5.76L97,4.66a6.28,6.28,0,0,1,5.4,0L185.6,43.83a6.37,6.37,0,0,1,3.65,5.76v67.67c0,55.08-47.72,81-82.55,99.89l-3.93,2.13A6.47,6.47,0,0,1,99.72,220.06ZM22.91,53.62v63.64c0,47.52,42.09,70.37,75.9,88.73l.9.48.91-.48c33.81-18.36,75.9-41.21,75.9-88.73V53.62L99.72,17.43Z"></path></svg> </div> <div class="menu-item__text">Instituto Virtual </div> </a> </li>');
+    }
+});
+
+//Se creea el acceso directo al instituto virtual desde el menú hamburgesa para navegador en móvil o tablet
+$(document).ready(function () {
+    $('.mobile-header-hamburger').on('click touchstart', function () {
+        setTimeout(function () {
+            $(".tTloz_fLbg").append('<li class="fOyUs_bGBk dxCCp_bGBk dxCCp_fLbg dxCCp_ycrn dxCCp_cfzP dxCCp_cYsY"><a href="https://instituto.medac.es" target="_blank" cursor="pointer" class="fOyUs_bGBk eHiXd_bGBk eHiXd_brAJ eHiXd_doqw eHiXd_eESV eHiXd_cuTS" style="margin: 0px; cursor: pointer;"><span class="eHiXd_caGd"><span class="fOyUs_bGBk fOyUs_desw cGJLp_bGBk cGJLp_busO cGJLp_fZWR cGJLp_qOas"><span class="fOyUs_bGBk dHGMZ_bGBk" style="width: 3rem;"><svg name="IconCalendarMonth" viewBox="0 0 1920 1920" rotate="0" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="esvoZ_bGBk esvoZ_drOs esvoZ_cRbP cGqzL_bGBk cGqzL_VCXp" style="width: 1em; height: 1em;"><g role="presentation"><path d="M276.941 440.584v565.722c0 422.4 374.174 625.468 674.71 788.668l8.02 4.292 8.131-4.292c300.537-163.2 674.71-366.268 674.71-788.668V440.584L959.672 118.927 276.94 440.584zm682.73 1479.529c-9.262 0-18.523-2.372-26.993-6.89l-34.9-18.974C588.095 1726.08 164 1495.906 164 1006.306V404.78c0-21.91 12.65-41.788 32.414-51.162L935.727 5.42c15.134-7.228 32.866-7.228 48 0L1723.04 353.62c19.765 9.374 32.414 29.252 32.414 51.162v601.525c0 489.6-424.207 719.774-733.779 887.943l-34.899 18.975c-8.47 4.517-17.731 6.889-27.105 6.889zm467.158-547.652h-313.412l-91.595-91.482v-83.803H905.041v-116.78h-83.69l-58.503-58.504c-1.92.113-3.84.113-5.76.113-176.075 0-319.285-143.21-319.285-319.285 0-176.075 143.21-319.398 319.285-319.398 176.075 0 319.285 143.323 319.285 319.398 0 1.92 0 3.84-.113 5.647l350.57 350.682v313.412zm-266.654-112.941h153.713v-153.713L958.462 750.155l3.953-37.27c1.017-123.897-91.595-216.621-205.327-216.621S550.744 588.988 550.744 702.72c0 113.845 92.612 206.344 206.344 206.344l47.21-5.309 63.811 63.7h149.873v116.78h116.781v149.986l25.412 25.299zm-313.4-553.57c0 46.758-37.949 84.706-84.706 84.706-46.758 0-84.706-37.948-84.706-84.706s37.948-84.706 84.706-84.706c46.757 0 84.706 37.948 84.706 84.706" fill-rule="evenodd" stroke="none" stroke-width="1"></path></g></svg></span><span class="fOyUs_bGBk dHGMZ_bGBk"><span class="cjUyb_bGBk cjUyb_ycrn cjUyb_eQnG">Instituto virtual</span></span></span></span></a></li>');
+        }, 500);
+    });
+});
+
+/*$( "[data-id='compose-message-course']" ).click(function() {
+    $("[data-content-type='Grupos']").prev().text("Mentor");
+});*/
